@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=Hide
+Type=X-GNOME-Metatheme
+Comment=There is only one
+Encoding=UTF-8
+GtkTheme=Adwaita
+MetacityTheme=hideTitleBar`
+IconTheme=gnome
+CursorTheme=Adwaita
+CursorSize=24
